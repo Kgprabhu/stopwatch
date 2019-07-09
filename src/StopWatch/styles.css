@@ -1,0 +1,19 @@
+.watch-wrapper{
+    border: 1px solid green;
+    padding: 60px;
+    width: 100px;
+    border-radius: 50%;
+    font-weight: bold;
+}
+
+.watch-header{
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.button-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+}
